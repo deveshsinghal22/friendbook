@@ -1,0 +1,36 @@
+#frm{
+           margin-left: 771px;
+           margin-top: 10px;
+       }
+        #header{
+            background-color:  #6495ed; margin-bottom: 20px;  min-height: 75px;
+            overflow: hidden;
+        }
+        .regis{
+            margin-left: 700px;
+        }
+
+      .btn {
+    background: url("../images/login.PNG") no-repeat scroll left top #F0FFFF;
+    border: medium none;
+    height: 22px;
+   
+
+    width: 49px;
+}
+
+.btntd{float: left; margin-top: 19px;}
+     .logo{
+           width: 150px
+            margin-top: 10px; float: left;
+        }
+
+      .nav{width: 940px; margin: 0px auto; background: #fff;}
+      .nav td a{padding: 0px 45px; text-decoration:none; }
+      .nav td a:hover{color:red;};
+
+
+
+.user{background: #82cc40; overflow:hidden; }
+.user h1{ font-size: 30px; margin:0px; padding: 0px;}
+.user a{ text-decoration: none; color:#666;}
